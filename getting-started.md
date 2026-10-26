@@ -3,7 +3,7 @@ layout: default
 title: CodeArena スクリプト作成ガイド
 ---
 
-[トップ](index.html) / [スクリプト作成ガイド](getting-started.html) / [Lua APIリファレンス](lua-api.html)
+[トップ](https://uzurann.github.io/CodeArena-Docs/index.html) / [スクリプト作成ガイド](https://uzurann.github.io/CodeArena-Docs/getting-started.html) / [Lua APIリファレンス](https://uzurann.github.io/CodeArena-Docs/lua-api.html)
 
 > 作成中のドキュメントです。対応ビルドは未指定です。「未記入」の項目は公開前に確認・補完してください。
 
@@ -111,7 +111,7 @@ end
 | 変更が反映されない | 保存済みか、対象に`[IN USE]`が付いているか |
 | 使用設定ができない | 未保存の変更やコードの検証エラーがないか |
 | 入力していないのに条件が成立する | 入力APIを`== 1`で判定しているか |
-| APIや実行制限のエラー | [Lua APIリファレンス](lua-api.html)を確認 |
+| APIや実行制限のエラー | [Lua APIリファレンス](https://uzurann.github.io/CodeArena-Docs/lua-api.html)を確認 |
 
 エラー表示の具体例と再実行手順：**未記入**。
 

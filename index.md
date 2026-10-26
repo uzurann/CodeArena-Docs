@@ -48,13 +48,13 @@ OVER CLOCK(オーバークロック状態)について：
 
 ## 初めてスクリプトを作る方へ
 
-[スクリプト作成ガイド](getting-started.html)
+[スクリプト作成ガイド](https://uzurann.github.io/CodeArena-Docs/getting-started.html)
 
 画面の開き方、エディターの操作、最小サンプル、保存・使用設定、動作確認の順に進めます。
 
 ## 関数の使い方を調べたい方へ
 
-[Lua APIリファレンス](lua-api.html)
+[Lua APIリファレンス](https://uzurann.github.io/CodeArena-Docs/lua-api.html)
 
 `Start()`・`Update()`・`state`の仕組み、各API、実行制限やエラーを確認できます。
 

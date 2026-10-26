@@ -3,7 +3,7 @@ layout: default
 title: CodeArena Lua APIリファレンス
 ---
 
-[トップ](index.html) / [スクリプト作成ガイド](getting-started.html) / [Lua APIリファレンス](lua-api.html)
+[トップ](https://uzurann.github.io/CodeArena-Docs/index.html) / [スクリプト作成ガイド](https://uzurann.github.io/CodeArena-Docs/getting-started.html) / [Lua APIリファレンス](https://uzurann.github.io/CodeArena-Docs/lua-api.html)
 
 > 作成中のドキュメントです。対応ビルドは未指定です。「未記入」の項目は公開前に確認・補完してください。
 
@@ -11,7 +11,7 @@ title: CodeArena Lua APIリファレンス
 
 実装確認日：2026-10-26。各値は確認時点の実装であり、αの確定仕様ではありません。
 
-初めての方は[スクリプト作成ガイド](getting-started.html)から進めてください。
+初めての方は[スクリプト作成ガイド](https://uzurann.github.io/CodeArena-Docs/getting-started.html)から進めてください。
 
 ## 目次
 
